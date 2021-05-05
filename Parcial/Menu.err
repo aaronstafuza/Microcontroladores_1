@@ -1,0 +1,5 @@
+Warning[2058] C:\Users\Usuario\Desktop\Juan\Microcontroladores\PARCIAL\Juan_Alisiardi_UCA_micro1_13_11_2020\Menu.c 36 : call of function without prototype
+Warning[2058] C:\Users\Usuario\Desktop\Juan\Microcontroladores\PARCIAL\Juan_Alisiardi_UCA_micro1_13_11_2020\Menu.c 45 : call of function without prototype
+Warning[2103] C:\Users\Usuario\Desktop\Juan\Microcontroladores\PARCIAL\Juan_Alisiardi_UCA_micro1_13_11_2020\Menu.c 84 : default startup code expects main function declared as 'void main (void)'
+Warning[2058] C:\Users\Usuario\Desktop\Juan\Microcontroladores\PARCIAL\Juan_Alisiardi_UCA_micro1_13_11_2020\Menu.c 97 : call of function without prototype
+Warning[2058] C:\Users\Usuario\Desktop\Juan\Microcontroladores\PARCIAL\Juan_Alisiardi_UCA_micro1_13_11_2020\Menu.c 99 : call of function without prototype
